@@ -1,1 +1,2 @@
 These files originally had a period (.) because they were hidden; I removed the periods so I could upload them to GitHub.
+Ej .reginfo
