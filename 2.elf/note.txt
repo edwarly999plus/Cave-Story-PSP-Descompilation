@@ -1,2 +1,3 @@
 These files originally had a period (.) because they were hidden; I removed the periods so I could upload them to GitHub.
 Ej .reginfo
+These files are also part of DATA.PSP or 2.elf
